@@ -1,0 +1,37 @@
+{
+    "110000": {
+        "id": 110000,
+        "name": "北京市",
+        "type": "province",
+        "showitem": false,
+        "item": {}
+    },
+    "120000": {
+        "id": 120000,
+        "name": "天津市",
+        "type": "province",
+        "showitem": false,
+        "item": {}
+    },
+    "130000": {
+        "id": 130000,
+        "name": "河北省",
+        "type": "province",
+        "showitem": false,
+        "item": {}
+    },
+    "140000": {
+        "id": 140000,
+        "name": "山西省",
+        "type": "province",
+        "showitem": false,
+        "item": {}
+    },
+    "150000": {
+        "id": 150000,
+        "name": "内蒙古自治区",
+        "type": "province",
+        "showitem": false,
+        "item": {}
+    }
+}
